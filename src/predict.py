@@ -4,7 +4,7 @@ import cv2
 import sys
 
 
-MODEL_PATH = "models/animal_emotion_model.keras"
+MODEL_PATH = "models/animal_emotion_model_version4.keras"
 
 IMG_HEIGHT = 224
 IMG_WIDTH = 224
